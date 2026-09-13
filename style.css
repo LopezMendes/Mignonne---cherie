@@ -695,18 +695,9 @@ body {
 
 .hidden-gift span {
     display: block;
-
-    font-size: 2.2rem;
-
-    font-weight: bold;
+    font-size: 2.5rem;
+    color: #d6537d;
 }
-
-.hidden-gift small {
-    font-family: Arial, sans-serif;
-
-    letter-spacing: 2px;
-}
-
 .envelope.open .envelope-letter {
     transform: translateY(-100px);
 
