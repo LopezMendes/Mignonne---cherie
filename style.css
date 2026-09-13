@@ -1008,14 +1008,15 @@ body {
        margin-right: auto;
     }
 
-   .tap-text {
-    width: 100%;
-    text-align: center;
-    display: block;
-    margin: 5px auto 0;
-}
     .final-love {
         font-size: 0.94rem;
         line-height: 1.7;
     }
 }
+
+   .tap-text {
+       width: 100%;
+       text-align: center;
+       display: block;
+       margin: 5px auto 0;
+   }
